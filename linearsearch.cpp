@@ -40,6 +40,11 @@ void linear () {
 
         ctr = 0;
         i = 0;
+
+        while (i < n)
+        {
+            
+        }
     }
 
 }
