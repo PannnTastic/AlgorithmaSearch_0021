@@ -62,3 +62,7 @@ void linear () {
     }while ((ch == 'y' ) || (ch == 'Y'));
 
 }
+
+void display (){
+    
+}
