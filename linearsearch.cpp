@@ -32,5 +32,11 @@ void linear () {
     char ch;
     int ctr
     int item;
-    
+
+    do
+    {
+        cout << "\nEnter The Element You Want To Search : ";
+        cin >> item;
+    }
+
 }
