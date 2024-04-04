@@ -29,5 +29,8 @@ void input (){
 }
 
 void linear () {
+    char ch;
+    int ctr
+    int item;
     
 }
