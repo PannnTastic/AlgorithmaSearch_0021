@@ -75,4 +75,5 @@ void display (){
 int main (){
     input();
     linear();
+    display();
 }
