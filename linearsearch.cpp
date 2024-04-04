@@ -46,7 +46,7 @@ void linear () {
             ctr++;
             if (arr[i] == item)
             {
-                cout << "\n" << item << "Found at Position : " << (i + 1) << endl;
+                cout << "\n" << item << " Found at Position : " << (i + 1) << endl;
                 break;
             }
             i++;
@@ -68,12 +68,15 @@ void display (){
     for (i = 0; i < n ; i ++)
     {
         cout << arr[i] << " ";
-        cout << endl;
     } 
+    cout << endl; 
 }
 
 int main (){
     input();
     linear();
     display();
+
+    system ("pause");
+    system ("cls");
 }
