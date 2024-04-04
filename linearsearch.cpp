@@ -49,6 +49,7 @@ void linear () {
                 cout << "\n" << item << "Found at Position : " << (i + 1) << endl;
                 break;
             }
+            i++;
         }
     }
 
